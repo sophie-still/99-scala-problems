@@ -26,3 +26,11 @@ object ListFunction {
   }
 
 }
+
+//git remote add origin git@github.com:sophie-still/99-scala-problems.git
+//git add .gitignore
+//git commit -m "Added .gitignore"
+//git push
+//git push -f --set-upstream origin master
+
+
